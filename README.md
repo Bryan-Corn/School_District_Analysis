@@ -30,7 +30,7 @@ Here is the list of deliverables for the analysis of the school district:
   • School performance based on the type of school
 ```
 ```
-Create new DataFrame for District Summary:
+- Create new DataFrame for District Summary:
   • Total number of schools in the column "Total Schools"
   • Total number of students in the column "Total Students"
   • Total budget in the column "Total Budget"
