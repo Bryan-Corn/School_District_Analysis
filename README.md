@@ -28,3 +28,14 @@ Here is the list of deliverables for the analysis of the school district:
   • School performance based on the school size 
   • School performance based on the type of school
 ```
+```
+Create new DataFrame for District Summary:
+  • Total number of schools in the column "Total Schools"
+  • Total number of students in the column "Total Students"
+  • Total budget in the column "Total Budget"
+  • Average reading score in the column "Average Reading Score"
+  • Average math score in the column "Average Math Score"
+  • Percentage of students passing reading in the column "% Passing Reading"
+  • Percentage of students passing math in the column "% Passing Math"
+  • Overall passing percentage in the column "% Overall Passing"
+  ```
