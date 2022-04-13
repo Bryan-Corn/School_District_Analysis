@@ -18,7 +18,8 @@ Here is the list of deliverables for the analysis of the school district:
   • Percentage of students who passed math
   • Percentage of students who passed reading
   • Overall passing percentage
-
+```
+```
 - An overview of the key metrics for each school, presented in a table format
 - Tables presenting each of the following metrics:
   • Top 5 and bottom 5 performing schools, based on the overall passing rate
