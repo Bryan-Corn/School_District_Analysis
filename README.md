@@ -40,3 +40,16 @@ Here is the list of deliverables for the analysis of the school district:
   • Percentage of students passing math in the column "% Passing Math"
   • Overall passing percentage in the column "% Overall Passing"
   ```
+  ```
+- Create a new DataFrame for each school in the district
+  • School name
+  • School type
+  • Total students
+  • Total school budget
+  • Per student budget
+  • Average math score
+  • Average reading score
+  • % passing math
+  • % passing reading
+  • % overall passing
+```
