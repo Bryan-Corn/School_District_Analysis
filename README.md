@@ -62,5 +62,5 @@ Here is the list of deliverables for the analysis of the school district:
   • % passing reading
   • % overall passing
 ```
-# Alaysis
+# Analysis
 
