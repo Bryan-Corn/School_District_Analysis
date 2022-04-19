@@ -3,10 +3,15 @@ Bootcamp Module 4 (Python, Anaconda, Pandas)
 
 Analysing standardized test scores for school district 
 
+# Overview
+
+## Purpose
+
 ## Resources
 
 Software: Python v3.7.11, Anaconda v4.12.0, Pandas
 
+## Deliverables
 Here is the list of deliverables for the analysis of the school district: 
 ```
 - A high-level snapshot of the district's key metrics, presented in a table format:
@@ -40,6 +45,10 @@ Here is the list of deliverables for the analysis of the school district:
   • Percentage of students passing math in the column "% Passing Math"
   • Overall passing percentage in the column "% Overall Passing"
   ```
+  
+  # Results
+  
+  
   ```
 - Create a new DataFrame for each school in the district
   • School name
@@ -53,3 +62,5 @@ Here is the list of deliverables for the analysis of the school district:
   • % passing reading
   • % overall passing
 ```
+# Alaysis
+
