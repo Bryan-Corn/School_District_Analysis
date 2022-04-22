@@ -43,9 +43,9 @@ My analysis produced the following:
   • School performance based on the school size 
   • School performance based on the type of school
 ```
-![based on overall passing rate](/Analysis/district_analysis_deliverable_3.png, "Top 5 and Bottom 5 Performing Schools)
+![based on overall passing rate](/Analysis/district_analysis_deliverable_3.png, "Top 5 Performing Schools)
 
-
+![based on overall passing rate](/Analysis/district_analysis_deliverable_4.png, "Bottom 5 Performing Schools)
 
 
 ```
