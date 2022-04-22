@@ -14,7 +14,7 @@ Maria, Cheif Data Scientist for Py City School District has asked me to help ana
 Software: Python v3.7.11, Anaconda v4.12.0, Pandas
 
 ## Deliverables
-Maria has asked for the following deliverables for the school district analysis: 
+Maria has asked for the following deliverables for the school district analysis and the deliverable is shown under each section of requests: 
 ```
 - A high-level snapshot of the district's key metrics, presented in a table format:
   • Total number of students
@@ -27,11 +27,15 @@ Maria has asked for the following deliverables for the school district analysis:
   • Overall passing percentage
 ```
 My analysis produced the following:
-![image]("/Analysis/district_analysis_deliverable_1.png")
+![image]("/Analysis/district_analysis_deliverable_1.png", "High-level District Snapshot")
 
 ```
 - An overview of the key metrics for each school, presented in a table format
-- Tables presenting each of the following metrics:
+```
+![image]("/Analysis/district_analysis_deliverable_2.png", "School Summary Table")
+
+```
+- Additional tables presenting each of the following metrics:
   • Top 5 and bottom 5 performing schools, based on the overall passing rate
   • The average math score received by students in each grade level at each school
   • The average reading score received by students in each grade level at each school
@@ -39,6 +43,11 @@ My analysis produced the following:
   • School performance based on the school size 
   • School performance based on the type of school
 ```
+!["*based on overall passing rate"]("/Analysis/district_analysis_deliverable_3.png", "Top 5 and Bottom 5 Performing Schools)
+
+
+
+
 ```
 - Create new DataFrame for District Summary:
   • Total number of schools in the column "Total Schools"
