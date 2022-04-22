@@ -27,12 +27,12 @@ Maria has asked for the following deliverables for the school district analysis 
   • Overall passing percentage
 ```
 My analysis produced the following:
-![image](/Analysis/district_analysis_deliverable_1.png, "High-level District Snapshot")
+![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_1.png, "High-level District Snapshot")
 
 ```
 - An overview of the key metrics for each school, presented in a table format
 ```
-![image](/Analysis/district_analysis_deliverable_2.png, "School Summary Table")
+![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_2.png, "School Summary Table")
 
 ```
 - Additional tables presenting each of the following metrics:
@@ -43,9 +43,9 @@ My analysis produced the following:
   • School performance based on the school size 
   • School performance based on the type of school
 ```
-![based on overall passing rate](/Analysis/district_analysis_deliverable_3.png, "Top 5 Performing Schools)
+![based on overall passing rate](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_3.png, "Top 5 Performing Schools)
 
-![based on overall passing rate](/Analysis/district_analysis_deliverable_4.png, "Bottom 5 Performing Schools)
+![based on overall passing rate](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_4.png, "Bottom 5 Performing Schools)
 
 
 ```
