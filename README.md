@@ -7,6 +7,8 @@ Analysing standardized test scores for school district
 
 ## Purpose
 
+Maria, Cheif Data Scientist for Py City School District has asked me to help analiyze standardized test scores for each of the high schools in the Py City School District. This analysis will help the school board glean insights into performance trends and inform discussion regarding strategic descisions at the school and district level.
+
 ## Resources
 
 Software: Python v3.7.11, Anaconda v4.12.0, Pandas
