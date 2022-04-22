@@ -25,13 +25,16 @@ Maria has asked for the following deliverables for the school district analysis 
   • Percentage of students who passed math
   • Percentage of students who passed reading
   • Overall passing percentage
-![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_1.png "High-level District Snapshot")
+  
 ```
+![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_1.png "High-level District Snapshot")
+
 ```
 - An overview of the key metrics for each school, presented in a table format
+```
 
 ![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_2.png "School Summary Table")
-```
+
 ```
 - Additional tables presenting each of the following metrics:
   • Top 5 and bottom 5 performing schools, based on the overall passing rate
