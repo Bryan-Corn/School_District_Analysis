@@ -25,15 +25,13 @@ Maria has asked for the following deliverables for the school district analysis 
   • Percentage of students who passed math
   • Percentage of students who passed reading
   • Overall passing percentage
-```
-My analysis produced the following:
 ![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_1.png "High-level District Snapshot")
-
+```
 ```
 - An overview of the key metrics for each school, presented in a table format
-```
-![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_2.png "School Summary Table")
 
+![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_2.png "School Summary Table")
+```
 ```
 - Additional tables presenting each of the following metrics:
   • Top 5 and bottom 5 performing schools, based on the overall passing rate
@@ -43,9 +41,9 @@ My analysis produced the following:
   • School performance based on the school size 
   • School performance based on the type of school
 ```
-![based on overall passing rate](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_3.png "Top 5 Performing Schools")
+![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_3.png "Top 5 Performing Schools (based on overall passing rate)")
 
-![based on overall passing rate](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_4.png "Bottom 5 Performing Schools")
+![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_4.png "Bottom 5 Performing Schools (based on overall passing rate)")
 
 
 ```
@@ -58,6 +56,8 @@ My analysis produced the following:
   • Percentage of students passing reading in the column "% Passing Reading"
   • Percentage of students passing math in the column "% Passing Math"
   • Overall passing percentage in the column "% Overall Passing"
+  
+  ![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_5.png "High-Level District Snapshot (after correcting data)")
   ```
   
 # Results
