@@ -14,7 +14,7 @@ Maria, Cheif Data Scientist for Py City School District has asked me to help ana
 Software: Python v3.7.11, Anaconda v4.12.0, Pandas
 
 ## Deliverables
-Here is the list of deliverables for the analysis of the school district: 
+Maria has asked for the following deliverables for the school district analysis: 
 ```
 - A high-level snapshot of the district's key metrics, presented in a table format:
   • Total number of students
@@ -26,6 +26,9 @@ Here is the list of deliverables for the analysis of the school district:
   • Percentage of students who passed reading
   • Overall passing percentage
 ```
+My analysis produced the following:
+![image]("/Analysis/district_analysis_deliverable_1.png")
+
 ```
 - An overview of the key metrics for each school, presented in a table format
 - Tables presenting each of the following metrics:
