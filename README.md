@@ -54,6 +54,10 @@ Maria has asked for the following deliverables for the school district analysis 
 
 ![Average Reading Score by Grade](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable__7.png "School Performance based on Budget Per Student")
 
+![Average Reading Score by Grade](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_8.png "School Performance based on Size")
+
+![Average Reading Score by Grade](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_9.png "School Performance based on Type")
+
 ```
 - Create new DataFrame for District Summary:
   • Total number of schools in the column "Total Schools"
