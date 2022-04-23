@@ -27,7 +27,7 @@ Maria has asked for the following deliverables for the school district analysis 
   • Overall passing percentage
   
 ```
-![JFJFJSKJFLKSDJFLKSJDFLKDF](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_1.png "High-level District Snapshot")
+![sadfdfgdfgdfg](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_1.png)
 
 ```
 - An overview of the key metrics for each school, presented in a table format
