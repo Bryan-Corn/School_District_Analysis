@@ -27,7 +27,7 @@ Maria has asked for the following deliverables for the school district analysis 
   • Overall passing percentage
   
 ```
-![sadfdfgdfgdfg](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_1.png "High-level District Snapshot")
+![image](/Analysis/district_analysis_deliverable_1.png "High-level District Snapshot")
 
 ```
 - An overview of the key metrics for each school, presented in a table format
@@ -90,10 +90,16 @@ High-Level District Snapshot (after correcting data):
  
   
 # Results
+
+After removing the 9th grade data for Thomas High School and recalculating some of the metrics, several important changes can be seen in the data:
 ```
-  Using bulleted lists and images of DataFrames as support, address the following questions.
+Using bulleted lists and images of DataFrames as support, address the following questions.
 
 How is the district summary affected?
+```
+![image](/Analysis/district_analysis_deliverable_1.png "High-level District Snapshot")
+![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_10.png "High-Level District Snapshot (after correcting data)")
+```
 How is the school summary affected?
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
