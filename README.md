@@ -33,7 +33,7 @@ Maria has asked for the following deliverables for the school district analysis 
 - An overview of the key metrics for each school, presented in a table format
 ```
 
-![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_2.png "School Summary Table")
+![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable__2.png "School Summary Table")
 
 ```
 - Additional tables presenting each of the following metrics:
@@ -48,10 +48,11 @@ Maria has asked for the following deliverables for the school district analysis 
 
 ![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_4.png "Bottom 5 Performing Schools (based on overall passing rate)")
 
-!["Average Math Score by Grade"](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable__5.png "Average Math Score by Grade")
+![Average Math Score by Grade](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable__5.png "Average Math Score by Grade")
 
-!["Average Reading Score by Grade"](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_6.png "Average Reading Score by Grade")
+![Average Reading Score by Grade](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_6.png "Average Reading Score by Grade")
 
+![Average Reading Score by Grade](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable__7.png "School Performance based on Budget Per Student")
 
 ```
 - Create new DataFrame for District Summary:
