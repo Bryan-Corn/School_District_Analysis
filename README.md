@@ -46,31 +46,31 @@ Maria has asked for the following deliverables for the school district analysis 
 ```
 Top 5 Performing Schools (based on overall passing rate):
 
-![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable__3.png "Top 5 Performing Schools (based on overall passing rate)")
+![Top 5 Performing Schools](/Analysis/district_analysis_deliverable__3.png "Top 5 Performing Schools (based on overall passing rate)")
 
 Bottom 5 Performing Schools (based on overall passing rate):
 
-![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable__4.png "Bottom 5 Performing Schools (based on overall passing rate)")
+![image](/Analysis/district_analysis_deliverable__4.png "Bottom 5 Performing Schools (based on overall passing rate)")
 
 Average Math Score by Grade:
 
-![Average Math Score by Grade](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable__5.png "Average Math Score by Grade")
+![Average Math Score by Grade](/Analysis/district_analysis_deliverable__5.png "Average Math Score by Grade")
 
 Average Reading Score by Grade:
 
-![Average Reading Score by Grade](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_6.png "Average Reading Score by Grade")
+![Average Reading Score by Grade](/Analysis/district_analysis_deliverable_6.png "Average Reading Score by Grade")
 
 School Performance based on Budget Per Student:
 
-![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable__7.png "School Performance based on Budget Per Student")
+![image](/Analysis/district_analysis_deliverable__7.png "School Performance based on Budget Per Student")
 
 School Performance based on Size:
 
-![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_8.png "School Performance based on Size")
+![image](/Analysis/district_analysis_deliverable_8.png "School Performance based on Size")
 
 School Performance based on Type:
 
-![Average Reading Score by Grade](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_9.png "School Performance based on Type")
+![Average Reading Score by Grade](/Analysis/district_analysis_deliverable_9.png "School Performance based on Type")
 
 ### While putting the deliverables toger, Maria updated her request. Thomas High School has been found to have misrepresented the scores for 9th grade reading and math and would like these datapoints removed. She would like an updated District Summary with the new data.
 ```
@@ -86,7 +86,7 @@ School Performance based on Type:
  ``` 
 High-Level District Snapshot (after correcting data):
 
-![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_10.png "High-Level District Snapshot (after correcting data)")
+![image](h/Analysis/district_analysis_deliverable_10.png "High-Level District Snapshot (after correcting data)")
  
   
 # Results
@@ -97,8 +97,8 @@ Using bulleted lists and images of DataFrames as support, address the following 
 
 How is the district summary affected?
 ```
-![image](/Analysis/district_analysis_deliverable_1.png "High-level District Snapshot")
-![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_10.png "High-Level District Snapshot (after correcting data)")
+![High-level District Snapshot](/Analysis/district_analysis_deliverable_1.png "High-level District Snapshot")
+![image](/Analysis/district_analysis_deliverable_10.png "High-Level District Snapshot (after correcting data)")
 ```
 How is the school summary affected?
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
