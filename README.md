@@ -83,9 +83,11 @@ School Performance based on Type:
   • Percentage of students passing reading in the column "% Passing Reading"
   • Percentage of students passing math in the column "% Passing Math"
   • Overall passing percentage in the column "% Overall Passing"
-  
-  ![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_10.png "High-Level District Snapshot (after correcting data)")
-  ```
+ ``` 
+High-Level District Snapshot (after correcting data):
+
+![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_10.png "High-Level District Snapshot (after correcting data)")
+ 
   
 # Results
 ```
