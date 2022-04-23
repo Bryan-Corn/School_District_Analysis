@@ -121,10 +121,14 @@ Scores by school spending
 Scores by school size
 Scores by school type
 ```
-• Math and Reading scores by grade are unchanged other than showing NaN for Thomas High School's 9th grade data 
+• Math and Reading scores by grade are unchanged other than showing NaN for Thomas High School's 9th grade data
+
 • The $631-645 group got a boost in the passing % columns
+
 • Large(2000-5000) schools also show a boost in % Passing columns as THS averages all incresed to higher scores than the averages in the group.
+
 • Charter Schools, as a group, benefit from the boost in THS's % Passing columns.
+
 
 # Summary
 
