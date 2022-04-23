@@ -48,9 +48,9 @@ Maria has asked for the following deliverables for the school district analysis 
 
 ![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_4.png "Bottom 5 Performing Schools (based on overall passing rate)")
 
-![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable__5.png "Average Math Score by Grade")
+!["Average Math Score by Grade"](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable__5.png "Average Math Score by Grade")
 
-![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_6.png "Average Reading Score by Grade")
+!["Average Reading Score by Grade"](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_6.png "Average Reading Score by Grade")
 
 
 ```
