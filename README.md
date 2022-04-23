@@ -1,5 +1,5 @@
 # School_District_Analysis
-Bootcamp Module 4 (Python, Anaconda, Pandas)
+Bootcamp Module 4 (Python, Anaconda, Pandas, Jupyter Notebooks)
 
 Analysing standardized test scores for school district 
 
@@ -11,7 +11,7 @@ Maria, Cheif Data Scientist for Py City School District has asked me to help ana
 
 ## Resources
 
-Software: Python v3.7.11, Anaconda v4.12.0, Pandas
+Software: Python v3.7.11, Anaconda v4.12.0, Pandas, Jupyter Notebooks
 
 ## Deliverables
 Maria has asked for the following deliverables for the school district analysis and the deliverable is shown under each section of requests: 
