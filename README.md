@@ -112,7 +112,7 @@ The top row includes the data that was later removed to create the bottom row. W
 ```
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 ```
-Thomas iHogh School's relative performance compared to other schools is greatly increased by removing the 9th grade data. Before changing the data, Thomas Hogh School ranked among the lower middle while it now ranks among hte top 5 performing schools.
+Thomas High School's relative performance compared to other schools is greatly increased by removing the 9th grade data. Before changing the data, Thomas Hogh School ranked among the lower middle while it now ranks among the top 5 performing schools.
 
 ```
 How does replacing the ninth-grade scores affect the following:
