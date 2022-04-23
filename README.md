@@ -44,9 +44,9 @@ Maria has asked for the following deliverables for the school district analysis 
   • School performance based on the school size 
   • School performance based on the type of school
 ```
-![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_3.png "Top 5 Performing Schools (based on overall passing rate)")
+![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable__3.png "Top 5 Performing Schools (based on overall passing rate)")
 
-![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable_4.png "Bottom 5 Performing Schools (based on overall passing rate)")
+![image](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable__4.png "Bottom 5 Performing Schools (based on overall passing rate)")
 
 ![Average Math Score by Grade](https://github.com/Bryan-Corn/School_District_Analysis/blob/main/Analysis/district_analysis_deliverable__5.png "Average Math Score by Grade")
 
