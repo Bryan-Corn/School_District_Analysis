@@ -86,7 +86,7 @@ School Performance based on Type:
  ``` 
 High-Level District Snapshot (after correcting data):
 
-![image](h/Analysis/district_analysis_deliverable_10.png "High-Level District Snapshot (after correcting data)")
+![image](/Analysis/district_analysis_deliverable_10.png "High-Level District Snapshot (after correcting data)")
  
   
 # Results
@@ -99,30 +99,34 @@ How is the district summary affected?
 ```
 ![High-level District Snapshot](/Analysis/district_analysis_deliverable_1.png "High-level District Snapshot")
 ![image](/Analysis/district_analysis_deliverable_10.png "High-Level District Snapshot (after correcting data)")
+
+After removing the bad data, the Average Math Score, % Passing Math, % Passing Reading, and % Overall Passing metrics each when down byu a fraction of a percentage point while the Reading Average Score remained the same.
+
 ```
 How is the school summary affected?
+```
+![image](/Analysis/district_analysis_deliverable_11.png "Thomas High School Summary")
+
+The top row includes the data that was later removed to create the bottom row. We can see that the average scores for both math and reading remained the same while the three 'passing %' scores show a significant boost.
+
+```
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+```
+Thomas iHogh School's relative performance compared to other schools is greatly increased by removing the 9th grade data. Before changing the data, Thomas Hogh School ranked among the lower middle while it now ranks among hte top 5 performing schools.
+
+```
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
 Scores by school spending
 Scores by school size
 Scores by school type
 ```
-  
-```
-- Create a new DataFrame for each school in the district
-  • School name
-  • School type
-  • Total students
-  • Total school budget
-  • Per student budget
-  • Average math score
-  • Average reading score
-  • % passing math
-  • % passing reading
-  • % overall passing
-```
+• Math and Reading scores by grade are unchanged other than showing NaN for Thomas High School's 9th grade data 
+• The $631-645 group got a boost in the passing % columns
+• Large(2000-5000) schools also show a boost in % Passing columns as THS averages all incresed to higher scores than the averages in the group.
+• Charter Schools, as a group, benefit from the boost in THS's % Passing columns.
+
 # Summary
 ```
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+After reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, the average scores for reading and math for the remaining data did not change while the passing percentages in read and math both went up significantly. This change in data also raised the overall passing percentage and gave a boost to each catergory into which THS was placed.
 ```
