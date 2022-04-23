@@ -127,6 +127,6 @@ Scores by school type
 • Charter Schools, as a group, benefit from the boost in THS's % Passing columns.
 
 # Summary
-```
+
 After reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, the average scores for reading and math for the remaining data did not change while the passing percentages in read and math both went up significantly. This change in data also raised the overall passing percentage and gave a boost to each catergory into which THS was placed.
-```
+
