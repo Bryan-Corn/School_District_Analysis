@@ -73,7 +73,7 @@ School Performance based on Type:
 
 ![Average Reading Score by Grade](/Analysis/district_analysis_deliverable_9.png "School Performance based on Type")
 
-### While putting the deliverables together, Maria updated her request. Thomas High School has been found to have misrepresented the scores for 9th grade reading and math and would like these datapoints removed. She would like an updated District Summary with the new data.
+## While putting the deliverables together, Maria updated her request. Thomas High School has been found to have misrepresented the scores for 9th grade reading and math and would like these datapoints removed. She would like an updated District Summary with the new data.
 ```
 - Create new DataFrame for District Summary:
   • Total number of schools in the column "Total Schools"
